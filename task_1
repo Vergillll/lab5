@@ -1,0 +1,3 @@
+b = int(input())
+kb = b / 2**10
+print(kb)
